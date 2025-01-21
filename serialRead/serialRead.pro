@@ -31,7 +31,7 @@ SOURCES += \
 HEADERS += \
         mainwindow.h
 
-FORMS += \
+FORMS += \  
         mainwindow.ui
 
 # Default rules for deployment.
